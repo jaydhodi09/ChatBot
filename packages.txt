@@ -1,0 +1,5 @@
+pip install
+
+pyautogui   --  use for position 
+puperclip  ---  use to pick up content from the clipboard
+openai
