@@ -55,13 +55,14 @@ python 02_bot.py
 * Designed for educational/demo purposes.
 * You must manually adjust the pixel values to match your WhatsApp window layout.
 
-## 📄 License
-
-MIT License (or specify your own)
+## ✉️ Contact
+Created by **Jay Dhodi**  
+🔗 [GitHub](https://github.com/jaydhodi09)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jaydhodi14/)
 
 ---
 
-Developed by \[Your Name]
+Developed by \[Jay Dhodi]
 
 ```
 
